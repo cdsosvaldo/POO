@@ -1,0 +1,39 @@
+[
+  {
+    "tipo": "Guerreiro",
+    "dados": {
+      "_danoCausadoTotal": 0,
+      "_id": 1,
+      "_nome": "Osvaldo",
+      "_vida": 100,
+      "_ataque": 9,
+      "_historico": [],
+      "_vivo": true,
+      "_defesa": 3
+    }
+  },
+  {
+    "tipo": "Mago",
+    "dados": {
+      "_danoCausadoTotal": 0,
+      "_id": 2,
+      "_nome": "Caius",
+      "_vida": 100,
+      "_ataque": 12,
+      "_historico": [],
+      "_vivo": true
+    }
+  },
+  {
+    "tipo": "Troll",
+    "dados": {
+      "_danoCausadoTotal": 0,
+      "_id": 1,
+      "_nome": "Vitor",
+      "_vida": 120,
+      "_ataque": 14,
+      "_historico": [],
+      "_vivo": true
+    }
+  }
+]
